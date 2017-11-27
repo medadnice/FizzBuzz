@@ -1,5 +1,7 @@
 # set counter variable
 i = 0
+
+# Create a list for each number FizzBuzz occurs at
 occured = []
 for x in range(1, 101):
 
